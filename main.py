@@ -1,7 +1,7 @@
 import telebot
 import yfinance as yf
 
-BOT_TOKEN = 8477539301:AAEu6vaEpt8Y1uHpKCh6TjckCKDWy3LlwJU
+BOT_TOKEN = os.gatenv8477539301:AAEu6vaEpt8Y1uHpKCh6TjckCKDWy3LlwJU
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === Fungsi Cek Breakout + Retest ===
