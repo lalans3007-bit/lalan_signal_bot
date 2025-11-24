@@ -1,7 +1,7 @@
 import telebot
 import yfinance as yf
 
-BOT_TOKEN = "ISI_TOKEN_BOT_KAMU_DI_SINI"
+BOT_TOKEN = 8477539301:AAEu6vaEpt8Y1uHpKCh6TjckCKDWy3LlwJU
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === Fungsi Cek Breakout + Retest ===
